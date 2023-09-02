@@ -20,3 +20,9 @@ li {
   padding-left: 50px;
   justify-content: space-evenly;
 }
+body {
+  background: url(../Git-one/git-pract.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
