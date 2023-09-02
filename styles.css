@@ -1,0 +1,22 @@
+.nav-bar,
+ul {
+  display: flex;
+  background-color: rgb(20, 18, 18);
+  color: white;
+  border-radius: 20px;
+  list-style: none;
+}
+h1 {
+  color: beige;
+  padding-left: 2rem;
+}
+ul {
+  margin-top: 20px;
+  padding-left: 25rem;
+  padding-top: 13px;
+}
+li {
+  display: flex;
+  padding-left: 50px;
+  justify-content: space-evenly;
+}
